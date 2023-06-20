@@ -45,8 +45,11 @@ a:hover{
     text-align: center;
 }
 
-p {
+ol li ,ul li, p {
     color: white;
     text-align: center;
     font-size: 25px;
+    
 }
+
+
