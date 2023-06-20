@@ -20,6 +20,11 @@ a:hover{
     transition: 1s;
 }
 
-ul {
+.links {
     text-align: center;
+}
+.recipe-head{
+    color: gold;
+    text-align: center;
+    font-size: 60px;
 }
