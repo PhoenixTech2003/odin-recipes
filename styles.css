@@ -15,6 +15,10 @@ body {
     
 
 }
+a:hover{
+    color: gold;
+    transition: 1s;
+}
 
 ul {
     text-align: center;
