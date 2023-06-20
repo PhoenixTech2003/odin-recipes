@@ -49,7 +49,12 @@ ol li ,ul li, p {
     color: white;
     text-align: center;
     font-size: 25px;
+    list-style: none;
     
+}
+
+ol li{
+    list-style: decimal;
 }
 
 
