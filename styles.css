@@ -38,3 +38,9 @@ a:hover{
 .food{
     text-align: center;
 }
+
+.description{
+    color: gold;
+    font-size: 30px;
+    text-align: center;
+}
