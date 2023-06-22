@@ -57,4 +57,27 @@ ol li{
     list-style: decimal;
 }
 
+ .links li {
+    display: inline;  
+}
+
+.links .pancakes{
+    margin-right: 300px;
+}
+.links .mancakes{
+    margin-left: 300px;
+}
+.pics img{
+    height: auto;
+    width: 300px;
+    margin-left: 120px;
+
+
+}
+
+.pics .to {
+    background-color: gold;
+    height: 300px;
+    margin-left: 160px;
+}
 
